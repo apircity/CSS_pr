@@ -1,4 +1,2 @@
-# CSS_pr
-JS-CSS
-# 2022.01.17 11:48
-1. CSS selecter
+# 2021.01.18
+1. css 셀렉터 html Demo

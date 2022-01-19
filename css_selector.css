@@ -16,3 +16,8 @@ li {
     background: yellow;
 }
 
+button: hover {
+    color: red;
+    background: beige;
+}
+
